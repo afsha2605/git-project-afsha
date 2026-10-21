@@ -1,6 +1,13 @@
 # Afsha Quraishi
 
-## I am a student at ugsot, currently learning git and github.
+## About
+I am a student at ugsot, currently learning git and github.
+
+## Skills
+- Communication
+- Problem solving
+- Basic Git
+
 
 
 

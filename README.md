@@ -13,8 +13,6 @@ I am a student at ugsot, currently learning git and github.
 - project2: Web essentials
 
 ## Social Links
-- GitHub: https://github.com/afsha2605
-- Linkdin: https://www.linkedin.com/in/afsha-quraishi-9519383b2/?isSelfProfile=true
 
 
 
